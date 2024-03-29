@@ -25,6 +25,6 @@ Into the archive Configuration.h and Configuration_adv.h files.
 
 (*) For 350°C is mandatory the use of HT-NTK100K B3950 thermistor with stainless steel 3mm capsule and update heatblock for this thermistor.
 
-NOTE: for BLTouch put Z-probe plug to Z-Min endstop and you can remove the Z-Min switch from the machine.
+NOTE: for BLTouch put Z-probe plug to Z-Max endstop and you have to remove the Z-Min switch from the machine.
 
 Paypal email for donations: mr.mechano@gmail.com
